@@ -1,1 +1,1 @@
-Soap service to Perform basic mathematical operations
+Soap service to Perform basic mathematical operations like add, substract, multiply and divide.
